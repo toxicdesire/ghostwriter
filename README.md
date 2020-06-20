@@ -1,3 +1,4 @@
+**NOTE: purpose of life is to reserve usernames.**
 # Ghostwriter
 
 Enhanced port of the Ghost "[ghostwriter](https://github.com/roryg/ghostwriter)" theme to the [Hugo](https://gohugo.io) site generator.
